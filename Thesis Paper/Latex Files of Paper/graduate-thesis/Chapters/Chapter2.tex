@@ -1,0 +1,149 @@
+\chapter{Related Work}
+\begin{flushleft}
+Modeling affective state using typing rhythms draws from
+two fields: affective computing and keystroke dynamics.
+
+\subsection{Affective Computing}
+Affective computing refers to “computing that relates to,
+arises from, or deliberately influences emotions” \cite{picard}. We
+are interested in identifying a user’s emotional state, so we
+must first consider how emotions are described, and what
+other approaches have been used to classify emotion. The
+terms affect and emotion are often used interchangeably;
+we will use emotional state to refer to the internal dynamics
+(cognitive and physiological) that are present during an
+emotional episode, and emotional experience as what an
+individual perceives of their emotional state \cite{picard}.
+
+\subsubsection{Describing Emotions}
+Two main approaches have been used to describe emotions:
+categorical and dimensional. The categorical approach
+applies specific labels to different emotional states through
+language (e.g. sadness, fear, joy) \cite{ekman}. The dimensional
+approach \cite{russell} uses two orthogonal axes called arousal and
+valence. Arousal is related to the energy of the feeling and
+is typically described in terms of low (e.g. sleepiness) to
+high (e.g. excitement) arousal. Valence describes the
+pleasure (positive) or displeasure (negative) of a feeling.
+Labels for different emotional states can be represented in
+this two-dimensional space. For example, anger would be a
+high-arousal, low-valence state.
+\subsubsection{Sensing Emotional State}
+
+Both the categorical and dimensional models of emotion
+have been used in prior approaches of identifying emotional
+state. Some approaches use features easily discernable by
+other humans, such as facial expressions, gestures, vocal
+intonation, and language \cite{picard}. For example, face-tracking
+software is used to analyze facial expressions gathered from
+webcam images to infer users’ affective states  \cite{silva, partala}. This
+approach has been extended to use thermal imaging to
+identify changes in blood flow patterns of the face that are
+synonymous with different facial expressions \cite{khan}.
+
+Other approaches use features that are less discernable to
+other humans, but can be measured by specialized
+equipment. For example, significant research has been
+conducted on measuring physiological changes that occur
+in the body during emotional episodes using sensors such as
+galvanic skin response, electromyography of the face, and heart activity (see \cite{fairclough} for an overview). In HCI,
+researchers have used physiological sensors to measure the
+affective state of a user interacting with technology. Results
+have been produced by studying users playing video games \cite{mandryk}, navigating web pages \cite{ward}, using video conferencing
+software, and using mobile technology \cite{chen}.
+
+The above approaches have two main problems that prevent
+their widespread use: the sensing technology is obtrusive,
+and requires expensive specialized equipment. For example,
+EKG is measured using electrodes attached directly to the
+user’s skin. In some cases, the area where the electrodes are
+placed needs to be shaved to prevent interference \cite{stern}.
+Although research is underway to integrate these sensors
+into interaction devices, they are currently intrusive and
+their mere presence may alter the user’s emotional state. In
+\cite{khan}, a thermal camera is used is measure blood flow to a
+user’s face. Although unobtrusive, the equipment is
+specialized and not found in typical home or office settings.
+To eliminate the need for intrusive and costly equipment,
+we propose to determine affective state via typing rhythms.
+
+\subsection{Keystroke Dynamics}
+
+Keystroke dynamics is the study of the unique timing
+patterns in an individual’s typing, and typically includes
+extracting keystroke timing features such as the duration of
+a key press and the time elapsed between key presses.
+
+Much of the previous research in keystroke dynamics has
+been in authentication systems, with the premise that, just
+as with handwritten signatures, the way that an individual
+types can be unique enough to identify them \cite{joyce}. The use
+of keystroke dynamics for user authentication has been an
+active area of research, producing many studies
+ \cite{bergadano, dowland, joyce, monrose }, patents \cite{bender}, and systems \cite{admit}, whereby users
+are authenticated by providing the correct user name,
+password, and typing rhythm (see \cite{epp} for an overview).
+Anecdotal evidence suggests that strong emotional states
+can interfere with authentication \cite{monrose}; however, little is
+mentioned of this and it is unclear whether the timing
+variance associated with these emotional states is similar
+between individuals.
+
+
+Most of the authentication systems \cite{bergadano, joyce, monrose} use fixed-text
+models – that is, they use the same static piece of text
+(entered during authentication) that the model was trained
+on. There have been fewer approaches \cite{dowland, gunetti, monrose} that use
+models based on free text (text that is not prescribed to the
+user), as they do not perform as well as fixed-text models
+\cite{monrose}. The length of the required training text varies between
+different studies; some require a few words \cite{bergadano} or full pages
+of text \cite{gaines}, which can create better performing models.
+
+
+Although fixed-text models generally perform better than
+free-text models, the potential applications of free-text
+models are desirable. Recent work has explored free-text
+models for use in continuous verification, where users are
+continually monitored to identify masqueraders at any time
+(not just during authentication), and have shown potential given enough samples of sufficient length \cite{gunetti}. Free-text
+models have even been able to identify individuals typing
+in different languages \cite{gunetti2} as long as the two languages
+have enough similar valid digraphs. Most free-text studies
+require users to enter any ‘valid’ text as sample text \cite{gunetti};
+however, in \cite{dowland} keystroke activity was monitored as a
+background process during normal computer use. This
+method had three benefits: the user was less disturbed by
+the collection method, the data was obtained unobtrusively,
+and it reduced the cognitive load on the user by avoiding
+situations where they must think of something to type.
+
+
+Classification algorithms for the analysis of keystroke
+dynamics for user authentication include neural networks
+\cite{brown}, distance measures \cite{joyce, monrose}, decision trees \cite{sheng}, and
+other statistical methods \cite{bergadano, dowland, monrose}. Due to the differences in
+data collection approaches and classification methods, a
+comparison of performance across studies is difficult \cite{bergadano}.
+
+\subsubsection{Keystroke Dynamics and Affective Computing}
+There has been very little previous work applying keystroke
+dynamics to affective computing.
+Zimmerman et al. \cite{zimmermann} describe a method to correlate user
+interactions (keyboard and mouse) with affective state.
+Affective states were induced using films. Physiological
+sensors were used in conjunction with the Self-Assessment
+Manikin (SAM) \cite{lang}, a method of subjectively expressing
+affective state. The authors found significant differences
+between the neutral state and other emotional states, but
+were unable to distinguish between the induced states.
+Recent work by Vizer et al. \cite{vizer} used keystroke timing
+features of free text in conjunction with linguistic features
+to identify cognitive and physical stress. They achieved
+correct classifications of 62.5% for physical stress and 75%
+for cognitive stress (for 2 classes), which they state is
+comparable to other affective computing solutions. They
+also state that their solutions should be tested with varying
+typing abilities and keyboards, with varying physical and
+cognitive abilities, and in real-world stressful situations.
+
