@@ -1,0 +1,7183 @@
+Initial_step
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:04:04 2015
+ 6142 start 0 end 1000
+leftClick 
+0.162813
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+103.549
+CursorYDistance: 
+191.794
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.162813
+
+Duration
+6.142
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:04:10 2015
+ 12347 start 6204 end 1000
+leftClick 
+0.162787
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+55.9987
+CursorYDistance: 
+17.4182
+UpToDownTime: 
+71.3007
+DownToDownTime: 
+94.2536
+DownToUpTime: 83.6725
+KeyBoard: ----anika
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0.813935
+Mouse Clicks Per Sec
+0.162787
+
+Duration
+6.143
+Idle time
+1
+
+
+Timestamp
+Mon Aug 31 00:04:15 2015
+ 17418 start 12410 end 1000
+leftClick 
+0.199681
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+38.139
+CursorYDistance: 
+12.7796
+UpToDownTime: 
+2030.15
+DownToDownTime: 
+2198.68
+DownToUpTime: 106.23
+KeyBoard: ----1991s
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0.998403
+Mouse Clicks Per Sec
+0.199681
+
+Duration
+5.008
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:04:20 2015
+ 22701 start 17418 end 1000
+leftClick 
+0.378573
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+18.9286
+CursorYDistance: 
+32.5573
+UpToDownTime: 
+2087.07
+DownToDownTime: 
+2341.47
+DownToUpTime: 141.776
+KeyBoard: ----tudent
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.13572
+Mouse Clicks Per Sec
+0.378573
+
+Duration
+5.283
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:04:25 2015
+ 27730 start 22701 end 1000
+leftClick 
+0.397693
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+20.0835
+CursorYDistance: 
+42.752
+UpToDownTime: 
+2192.48
+DownToDownTime: 
+2459.73
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.397693
+
+Duration
+5.029
+Idle time
+0
+
+
+Step 1
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:06:45 2015
+ 7745 start 0 end 1000
+leftClick 
+0.258398
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+153.101
+CursorYDistance: 
+163.824
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.258398
+
+Duration
+7.74
+Idle time
+3
+
+
+Timestamp
+Mon Aug 31 00:06:53 2015
+ 16080 start 7745 end 1000
+leftClick 
+0.119976
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.359928
+CursorYDistance: 
+1.07978
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.119976
+
+Duration
+8.335
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:07:00 2015
+ 22170 start 16080 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+29.7209
+CursorYDistance: 
+46.3054
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.09
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:07:06 2015
+ 28665 start 22170 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+12.3172
+CursorYDistance: 
+9.85373
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.495
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:07:16 2015
+ 38335 start 28670 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+2.58665
+CursorYDistance: 
+4.44904
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+9.665
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:07:21 2015
+ 43675 start 38335 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+1.87266
+CursorYDistance: 
+9.55056
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.34
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:07:27 2015
+ 49330 start 43675 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+1.76835
+CursorYDistance: 
+17.153
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.655
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:07:32 2015
+ 54400 start 49330 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+4.33925
+CursorYDistance: 
+27.2189
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.07
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:07:37 2015
+ 59944 start 54400 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.180375
+CursorYDistance: 
+2.1645
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.544
+Idle time
+3
+
+
+Timestamp
+Mon Aug 31 00:07:48 2015
+ 70395 start 59944 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+5.07129
+CursorYDistance: 
+14.0656
+UpToDownTime: 
+46.3114
+DownToDownTime: 
+82.8629
+DownToUpTime: 50.7129
+KeyBoard: ----[Down][Down][Down][Down]
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0.382738
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+10.451
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:07:53 2015
+ 75610 start 70395 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.767018
+CursorYDistance: 
+22.8188
+UpToDownTime: 
+92.8092
+DownToDownTime: 
+166.059
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.215
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:08:06 2015
+ 88475 start 75610 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+3.49786
+CursorYDistance: 
+22.9304
+UpToDownTime: 
+37.6215
+DownToDownTime: 
+67.3144
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+12.865
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:08:13 2015
+ 95400 start 88475 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+26.7148
+CursorYDistance: 
+30.3249
+UpToDownTime: 
+69.8917
+DownToDownTime: 
+125.054
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.925
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:08:18 2015
+ 100785 start 95400 end 1000
+leftClick 
+0.185701
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+23.9554
+CursorYDistance: 
+30.455
+UpToDownTime: 
+89.8793
+DownToDownTime: 
+160.817
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.185701
+
+Duration
+5.385
+Idle time
+1
+
+
+Timestamp
+Mon Aug 31 00:08:24 2015
+ 106500 start 100785 end 1000
+leftClick 
+0.174978
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+55.4681
+CursorYDistance: 
+71.916
+UpToDownTime: 
+84.6894
+DownToDownTime: 
+151.531
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.174978
+
+Duration
+5.715
+Idle time
+4
+
+
+Timestamp
+Mon Aug 31 00:08:39 2015
+ 121520 start 106500 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+32.2237
+DownToDownTime: 
+57.6565
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+15.02
+Idle time
+19
+
+
+Timestamp
+Mon Aug 31 00:08:44 2015
+ 126800 start 121525 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+23942.7
+DownToDownTime: 
+12478.9
+DownToUpTime: 291.943
+KeyBoard: ----[Shift]my[Space]favout[Backspace]
+Control-0.379147
+Enter-
+0
+Function-
+0
+BackSpace-
+0.189573
+Arrow-
+0
+Regular-1.51659
+Mouse Clicks Per Sec
+0
+
+Duration
+5.275
+Idle time
+1
+
+
+Timestamp
+Mon Aug 31 00:08:49 2015
+ 131940 start 126800 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+25625.5
+DownToDownTime: 
+13958.4
+DownToUpTime: 368.677
+KeyBoard: ----rite[Space]comd[Backspace]edian[Space]is[Space][Shift]
+Control-0.77821
+Enter-
+0
+Function-
+0
+BackSpace-
+0.194553
+Arrow-
+0
+Regular-2.91829
+Mouse Clicks Per Sec
+0
+
+Duration
+5.14
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:08:54 2015
+ 137045 start 131940 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+26708.1
+DownToDownTime: 
+14996.3
+DownToUpTime: 271.89
+KeyBoard: ----mr.[Space][Shift]bean.
+Control-0.391773
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.56709
+Mouse Clicks Per Sec
+0
+
+Duration
+5.105
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:09:01 2015
+ 143310 start 137050 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+22505.1
+DownToDownTime: 
+12816.5
+DownToUpTime: 183.227
+KeyBoard: ----[Space][Shift]love[Space]
+Control-0.479233
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0.638978
+Mouse Clicks Per Sec
+0
+
+Duration
+6.26
+Idle time
+3
+
+
+Timestamp
+Mon Aug 31 00:09:06 2015
+ 148590 start 143310 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+28068.6
+DownToDownTime: 
+16691.3
+DownToUpTime: 295.455
+KeyBoard: ----every[Space]sig[Backspace]ngl
+Control-0.189394
+Enter-
+0
+Function-
+0
+BackSpace-
+0.189394
+Arrow-
+0
+Regular-2.08333
+Mouse Clicks Per Sec
+0
+
+Duration
+5.28
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:09:11 2015
+ 153595 start 148590 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+30505.9
+DownToDownTime: 
+18687.9
+DownToUpTime: 216.384
+KeyBoard: ----e[Space]episi[Backspace]od
+Control-0.1998
+Enter-
+0
+Function-
+0
+BackSpace-
+0.1998
+Arrow-
+0
+Regular-1.5984
+Mouse Clicks Per Sec
+0
+
+Duration
+5.005
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:09:16 2015
+ 158681 start 153595 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+31148.6
+DownToDownTime: 
+19375.9
+DownToUpTime: 295.91
+KeyBoard: ----e.[Space][Shift]the[Space]mos
+Control-0.589855
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.57295
+Mouse Clicks Per Sec
+0
+
+Duration
+5.086
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:09:22 2015
+ 164305 start 158681 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+28828.9
+DownToDownTime: 
+18386.4
+DownToUpTime: 442.034
+KeyBoard: ----r[Backspace]t[Space]interesting[Space]thi
+Control-0.355619
+Enter-
+0
+Function-
+0
+BackSpace-
+0.177809
+Arrow-
+0
+Regular-2.84495
+Mouse Clicks Per Sec
+0
+
+Duration
+5.624
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:09:27 2015
+ 169436 start 164305 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+32996.9
+DownToDownTime: 
+21304
+DownToUpTime: 234.262
+KeyBoard: ----[Backspace]ing[Space]about[Space]him[Space]
+Control-0.584681
+Enter-
+0
+Function-
+0
+BackSpace-
+0.194894
+Arrow-
+0
+Regular-2.14383
+Mouse Clicks Per Sec
+0
+
+Duration
+5.131
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:09:32 2015
+ 174470 start 169436 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+34702.2
+DownToDownTime: 
+22739.4
+DownToUpTime: 369.686
+KeyBoard: ----is[Space]that[Space]th[Backspace][Backspace]he[Space]ca
+Control-0.595948
+Enter-
+0
+Function-
+0
+BackSpace-
+0.397298
+Arrow-
+0
+Regular-2.38379
+Mouse Clicks Per Sec
+0
+
+Duration
+5.034
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:09:39 2015
+ 181415 start 174470 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+25518.6
+DownToDownTime: 
+16850.4
+DownToUpTime: 158.243
+KeyBoard: ----n[Space]make[Space]you[Space]
+Control-0.431965
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.15191
+Mouse Clicks Per Sec
+0
+
+Duration
+6.945
+Idle time
+4
+
+
+Timestamp
+Mon Aug 31 00:09:44 2015
+ 186525 start 181420 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+36259.9
+DownToDownTime: 
+24768.9
+DownToUpTime: 485.406
+KeyBoard: ----smile[Space]without[Space]even[Space]tal
+Control-0.587659
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-3.72184
+Mouse Clicks Per Sec
+0
+
+Duration
+5.105
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:09:49 2015
+ 191590 start 186530 end 1000
+leftClick 
+0.197628
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+49.2095
+CursorYDistance: 
+36.9565
+UpToDownTime: 
+36778.9
+DownToDownTime: 
+25248.2
+DownToUpTime: 107.708
+KeyBoard: ----king.
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0.988142
+Mouse Clicks Per Sec
+0.197628
+
+Duration
+5.06
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:09:54 2015
+ 196655 start 191590 end 1000
+leftClick 
+0.394867
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+42.843
+CursorYDistance: 
+67.7196
+UpToDownTime: 
+36742.5
+DownToDownTime: 
+25223.3
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.394867
+
+Duration
+5.065
+Idle time
+0
+
+
+Step 2
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:11:32 2015
+ 7626 start 5 end 1000
+leftClick 
+0.262605
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+188.55
+CursorYDistance: 
+117.253
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.262605
+
+Duration
+7.616
+Idle time
+4
+
+
+Timestamp
+Mon Aug 31 00:11:38 2015
+ 13275 start 7626 end 1000
+leftClick 
+0.177022
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0.354045
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.177022
+
+Duration
+5.649
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:11:44 2015
+ 19369 start 13275 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+48.9006
+CursorYDistance: 
+73.679
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.094
+Idle time
+4
+
+
+Timestamp
+Mon Aug 31 00:11:49 2015
+ 24625 start 19374 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+28.3755
+CursorYDistance: 
+29.3277
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.251
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:11:55 2015
+ 30472 start 24625 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+6.67009
+CursorYDistance: 
+6.84112
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.847
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:12:00 2015
+ 36023 start 30472 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.720591
+CursorYDistance: 
+5.94487
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.551
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:12:05 2015
+ 41229 start 36028 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.769083
+CursorYDistance: 
+2.30725
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.201
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:12:13 2015
+ 48493 start 41229 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+8.39758
+CursorYDistance: 
+30.011
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+7.264
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:12:18 2015
+ 54038 start 48493 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+2.16411
+CursorYDistance: 
+5.04959
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.545
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:12:24 2015
+ 59448 start 54038 end 1000
+leftClick 
+0.184843
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+19.7782
+CursorYDistance: 
+17.9298
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.184843
+
+Duration
+5.41
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:12:30 2015
+ 65418 start 59453 end 1000
+leftClick 
+0.167645
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+23.9732
+CursorYDistance: 
+84.4929
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.167645
+
+Duration
+5.965
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:12:35 2015
+ 70458 start 65418 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+102.183
+DownToDownTime: 
+134.921
+DownToUpTime: 85.3175
+KeyBoard: ----enjo
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0.793651
+Mouse Clicks Per Sec
+0
+
+Duration
+5.04
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:12:40 2015
+ 75975 start 70458 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+737.901
+DownToDownTime: 
+1037.7
+DownToUpTime: 295.088
+KeyBoard: ----yed[Space]every[Space][Backspace]
+Control-0.362516
+Enter-
+0
+Function-
+0
+BackSpace-
+0.181258
+Arrow-
+0
+Regular-1.45006
+Mouse Clicks Per Sec
+0
+
+Duration
+5.517
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:12:45 2015
+ 81078 start 75975 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+10082.3
+DownToDownTime: 
+2211.44
+DownToUpTime: 294.925
+KeyBoard: ----[Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace]waited[Space]very[Space]
+Control-0.391926
+Enter-
+0
+Function-
+0
+BackSpace-
+3.33137
+Arrow-
+0
+Regular-1.95963
+Mouse Clicks Per Sec
+0
+
+Duration
+5.103
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:12:51 2015
+ 86563 start 81078 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+10004
+DownToDownTime: 
+2837.01
+DownToUpTime: 197.812
+KeyBoard: ----long[Space]to[Space]
+Control-0.364631
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.09389
+Mouse Clicks Per Sec
+0
+
+Duration
+5.485
+Idle time
+1
+
+
+Timestamp
+Mon Aug 31 00:13:00 2015
+ 95364 start 86563 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0.113623
+UpToDownTime: 
+6756.05
+DownToDownTime: 
+2413.02
+DownToUpTime: 189.41
+KeyBoard: ----see[Space]such[Space]a[Space]day
+Control-0.34087
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.24986
+Mouse Clicks Per Sec
+0
+
+Duration
+8.801
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:13:05 2015
+ 100504 start 95364 end 1000
+leftClick 
+0.194553
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+66.537
+CursorYDistance: 
+73.7354
+UpToDownTime: 
+11568.1
+DownToDownTime: 
+4131.71
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.194553
+
+Duration
+5.14
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:13:10 2015
+ 105658 start 100504 end 1000
+leftClick 
+0.388048
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+55.1028
+CursorYDistance: 
+73.7291
+UpToDownTime: 
+11536.7
+DownToDownTime: 
+4120.49
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.388048
+
+Duration
+5.154
+Idle time
+0
+
+
+Step 3
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:16:18 2015
+ 5355 start 0 end 1000
+leftClick 
+0.186916
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+146.916
+CursorYDistance: 
+252.523
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.186916
+
+Duration
+5.35
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:16:25 2015
+ 12856 start 5355 end 1000
+leftClick 
+0.266631
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.133316
+CursorYDistance: 
+0.266631
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.266631
+
+Duration
+7.501
+Idle time
+6
+
+
+Timestamp
+Mon Aug 31 00:16:32 2015
+ 19795 start 12856 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+54.4747
+CursorYDistance: 
+76.3799
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.939
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:16:37 2015
+ 24960 start 19795 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+5.80833
+CursorYDistance: 
+25.9439
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.165
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:16:45 2015
+ 32400 start 24965 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.403497
+CursorYDistance: 
+2.82448
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+7.435
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:16:51 2015
+ 39009 start 32400 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+2.72356
+CursorYDistance: 
+15.2822
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.609
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:16:56 2015
+ 44011 start 39009 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+22.591
+CursorYDistance: 
+81.7673
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.002
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:17:01 2015
+ 49050 start 44011 end 1000
+leftClick 
+0.396904
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+17.0669
+CursorYDistance: 
+118.277
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.396904
+
+Duration
+5.039
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:17:15 2015
+ 62460 start 49050 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+13.41
+Idle time
+14
+
+
+Timestamp
+Mon Aug 31 00:17:20 2015
+ 67840 start 62460 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+799.071
+DownToDownTime: 
+875.465
+DownToUpTime: 352.602
+KeyBoard: ----if[Space]we[Space]behave[Space]like[Space]
+Control-0.743494
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-2.60223
+Mouse Clicks Per Sec
+0
+
+Duration
+5.38
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:17:25 2015
+ 72949 start 67845 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+1508.42
+DownToDownTime: 
+2024.88
+DownToUpTime: 490.596
+KeyBoard: ----those[Space]elephants[Space]in[Space]the[Space]s
+Control-0.783699
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-3.9185
+Mouse Clicks Per Sec
+0
+
+Duration
+5.104
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:17:30 2015
+ 77995 start 72954 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+2542.75
+DownToDownTime: 
+3049
+DownToUpTime: 332.474
+KeyBoard: ----tory,[Space]we[Space]will[Space]n
+Control-0.59512
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-2.38048
+Mouse Clicks Per Sec
+0
+
+Duration
+5.041
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:17:37 2015
+ 84339 start 77995 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+2500.63
+DownToDownTime: 
+3161.41
+DownToUpTime: 310.214
+KeyBoard: ----ever[Space]learn[Space]anything
+Control-0.315259
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-2.6797
+Mouse Clicks Per Sec
+0
+
+Duration
+6.344
+Idle time
+1
+
+
+Timestamp
+Mon Aug 31 00:17:42 2015
+ 89591 start 84339 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+53.8842
+CursorYDistance: 
+58.8347
+UpToDownTime: 
+3338.54
+DownToDownTime: 
+4165.84
+DownToUpTime: 18.0883
+KeyBoard: ----.
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0.190404
+Mouse Clicks Per Sec
+0
+
+Duration
+5.252
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:17:49 2015
+ 97065 start 89596 end 1000
+leftClick 
+0.133887
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+2347.57
+DownToDownTime: 
+2929.31
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.133887
+
+Duration
+7.469
+Idle time
+7
+
+
+Timestamp
+Mon Aug 31 00:17:54 2015
+ 102080 start 97065 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+2.19342
+CursorYDistance: 
+41.4756
+UpToDownTime: 
+3496.31
+DownToDownTime: 
+4362.71
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.015
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:17:59 2015
+ 107101 start 102080 end 1000
+leftClick 
+0.199164
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+50.5875
+CursorYDistance: 
+45.011
+UpToDownTime: 
+3492.13
+DownToDownTime: 
+4357.5
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.199164
+
+Duration
+5.021
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:18:04 2015
+ 112105 start 107101 end 1000
+leftClick 
+0.19984
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+19.5843
+CursorYDistance: 
+44.5643
+UpToDownTime: 
+3504
+DownToDownTime: 
+4372.3
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.19984
+
+Duration
+5.004
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:18:09 2015
+ 117255 start 112105 end 1000
+leftClick 
+0.38835
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+13.2039
+CursorYDistance: 
+46.4078
+UpToDownTime: 
+3404.66
+DownToDownTime: 
+4248.35
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.38835
+
+Duration
+5.15
+Idle time
+0
+
+
+Step 4
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:20:50 2015
+ 5351 start 5 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0.187056
+MouseScroll 
+0
+CursorXDistance: 
+70.333
+CursorYDistance: 
+130.378
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.346
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:20:55 2015
+ 10414 start 5351 end 1000
+leftClick 
+0.197511
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.197511
+CursorYDistance: 
+0.197511
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.197511
+
+Duration
+5.063
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:21:05 2015
+ 19804 start 10414 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+31.6294
+CursorYDistance: 
+79.7657
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+9.39
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:21:15 2015
+ 29870 start 19804 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+26.4256
+CursorYDistance: 
+29.5053
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+10.066
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:21:21 2015
+ 36075 start 29870 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+5.64061
+CursorYDistance: 
+27.3973
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.205
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:21:26 2015
+ 41294 start 36075 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+1.53286
+CursorYDistance: 
+26.0586
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.219
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:21:31 2015
+ 46530 start 41294 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+3.24675
+CursorYDistance: 
+21.0084
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.236
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:21:37 2015
+ 52139 start 46530 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+16.4022
+CursorYDistance: 
+64.8957
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.609
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:21:42 2015
+ 57180 start 52139 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+1.98373
+CursorYDistance: 
+35.1121
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.041
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:21:59 2015
+ 74695 start 57180 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.114188
+CursorYDistance: 
+0.342564
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+17.515
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:22:05 2015
+ 80044 start 74695 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+18.1342
+CursorYDistance: 
+78.5193
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.349
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:22:10 2015
+ 85147 start 80044 end 1000
+leftClick 
+0.391926
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+47.619
+CursorYDistance: 
+105.232
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.391926
+
+Duration
+5.103
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:22:19 2015
+ 94320 start 85147 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+9.173
+Idle time
+9
+
+
+Timestamp
+Mon Aug 31 00:22:24 2015
+ 99450 start 94320 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+828.265
+DownToDownTime: 
+956.335
+DownToUpTime: 170.175
+KeyBoard: ----[Shift]i'd[Space]be[Space]v
+Control-0.584795
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.16959
+Mouse Clicks Per Sec
+0
+
+Duration
+5.13
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:22:29 2015
+ 104567 start 99450 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+1999.61
+DownToDownTime: 
+1972.84
+DownToUpTime: 367.207
+KeyBoard: ----ery[Space]happy[Space]and[Space]sur
+Control-0.586281
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-2.73598
+Mouse Clicks Per Sec
+0
+
+Duration
+5.117
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:22:35 2015
+ 110255 start 104567 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+1.05485
+CursorYDistance: 
+0.703235
+UpToDownTime: 
+2525.32
+DownToDownTime: 
+2555.38
+DownToUpTime: 233.298
+KeyBoard: ----prised[Shift]1
+Control-0.175809
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.23066
+Mouse Clicks Per Sec
+0
+
+Duration
+5.688
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:22:46 2015
+ 121466 start 110255 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+20.1588
+CursorYDistance: 
+12.7553
+UpToDownTime: 
+1281.24
+DownToDownTime: 
+1296.49
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+11.211
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:22:51 2015
+ 126479 start 121466 end 1000
+leftClick 
+0.199481
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+64.4325
+CursorYDistance: 
+38.3004
+UpToDownTime: 
+2865.35
+DownToDownTime: 
+2899.46
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.199481
+
+Duration
+5.013
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:22:57 2015
+ 132374 start 126479 end 1000
+leftClick 
+0.339271
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+45.123
+CursorYDistance: 
+19.3384
+UpToDownTime: 
+2436.64
+DownToDownTime: 
+2465.65
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.339271
+
+Duration
+5.895
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:23:02 2015
+ 137384 start 132374 end 1000
+leftClick 
+0.399202
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+36.1277
+CursorYDistance: 
+32.3353
+UpToDownTime: 
+2867.07
+DownToDownTime: 
+2901.2
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.399202
+
+Duration
+5.01
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:23:07 2015
+ 142569 start 137384 end 1000
+leftClick 
+0.385728
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+10.0289
+CursorYDistance: 
+36.837
+UpToDownTime: 
+2770.3
+DownToDownTime: 
+2803.28
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.385728
+
+Duration
+5.185
+Idle time
+0
+
+
+Step 5
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:25:22 2015
+ 5389 start 0 end 1000
+leftClick 
+0.371471
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+404.903
+CursorYDistance: 
+128.343
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.371471
+
+Duration
+5.384
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:25:30 2015
+ 13274 start 5389 end 1000
+leftClick 
+0.126823
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.126823
+
+Duration
+7.885
+Idle time
+10
+
+
+Timestamp
+Mon Aug 31 00:25:48 2015
+ 31118 start 13274 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+3.02623
+CursorYDistance: 
+12.161
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+17.844
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:25:54 2015
+ 37114 start 31118 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+52.3682
+CursorYDistance: 
+34.523
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.996
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:26:07 2015
+ 50474 start 37114 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.748503
+CursorYDistance: 
+3.66766
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+13.36
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:26:18 2015
+ 60674 start 50474 end 1000
+leftClick 
+0.0980392
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+6.17647
+CursorYDistance: 
+25.1961
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.0980392
+
+Duration
+10.2
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:26:23 2015
+ 66384 start 60674 end 1000
+leftClick 
+0.175131
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+9.63222
+CursorYDistance: 
+20.6655
+UpToDownTime: 
+126.095
+DownToDownTime: 
+244.483
+DownToUpTime: 143.082
+KeyBoard: ----i[Space]sleep
+Control-0.175131
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.05079
+Mouse Clicks Per Sec
+0.175131
+
+Duration
+5.71
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:26:28 2015
+ 71484 start 66389 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+7311.29
+DownToDownTime: 
+1721.3
+DownToUpTime: 227.674
+KeyBoard: ----[Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace]i[Backspace][Shift]i[Space]sleep[Space]o
+Control-0.588813
+Enter-
+0
+Function-
+0
+BackSpace-
+2.35525
+Arrow-
+0
+Regular-1.57017
+Mouse Clicks Per Sec
+0
+
+Duration
+5.095
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:26:37 2015
+ 79652 start 71484 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.122429
+CursorYDistance: 
+0.122429
+UpToDownTime: 
+4876.47
+DownToDownTime: 
+1449.31
+DownToUpTime: 148.751
+KeyBoard: ----r[Space]read[Space]a[Space]book
+Control-0.367287
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.22429
+Mouse Clicks Per Sec
+0
+
+Duration
+8.168
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:26:42 2015
+ 84659 start 79652 end 1000
+leftClick 
+0.19972
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+67.7052
+CursorYDistance: 
+110.046
+UpToDownTime: 
+7955.06
+DownToDownTime: 
+2364.29
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.19972
+
+Duration
+5.007
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:26:47 2015
+ 89669 start 84659 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+5.98802
+CursorYDistance: 
+17.9641
+UpToDownTime: 
+7950.3
+DownToDownTime: 
+2362.87
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.01
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:26:52 2015
+ 94959 start 89669 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+5.29301
+CursorYDistance: 
+4.34783
+UpToDownTime: 
+7529.49
+DownToDownTime: 
+2237.81
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.29
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:26:57 2015
+ 100399 start 94959 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+2.38971
+CursorYDistance: 
+1.65441
+UpToDownTime: 
+7321.87
+DownToDownTime: 
+2176.1
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.44
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:27:04 2015
+ 107188 start 100399 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.147297
+CursorYDistance: 
+0
+UpToDownTime: 
+5866.99
+DownToDownTime: 
+1743.7
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.789
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:27:10 2015
+ 112946 start 107188 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+1.38937
+CursorYDistance: 
+1.2157
+UpToDownTime: 
+6917.51
+DownToDownTime: 
+2055.92
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.758
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:27:15 2015
+ 117949 start 112946 end 1000
+leftClick 
+0.19988
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+33.38
+CursorYDistance: 
+44.3734
+UpToDownTime: 
+7961.42
+DownToDownTime: 
+2366.18
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.19988
+
+Duration
+5.003
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:27:21 2015
+ 123879 start 117950 end 1000
+leftClick 
+0.168663
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+18.3842
+CursorYDistance: 
+35.5878
+UpToDownTime: 
+6718
+DownToDownTime: 
+1996.63
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.168663
+
+Duration
+5.929
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:27:26 2015
+ 128896 start 123884 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+12.3703
+CursorYDistance: 
+58.2602
+UpToDownTime: 
+7947.13
+DownToDownTime: 
+2361.93
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.012
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:27:31 2015
+ 134009 start 128896 end 1000
+leftClick 
+0.19558
+rightClick 
+0
+DoubleClick 
+0.19558
+MouseScroll 
+0
+CursorXDistance: 
+18.5801
+CursorYDistance: 
+92.9004
+UpToDownTime: 
+7790.14
+DownToDownTime: 
+2315.27
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.19558
+
+Duration
+5.113
+Idle time
+0
+
+
+Step 6
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:30:16 2015
+ 5015 start 5 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+408.591
+CursorYDistance: 
+142.857
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.005
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:30:22 2015
+ 10615 start 5015 end 1000
+leftClick 
+0.535714
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+5.35714
+CursorYDistance: 
+14.2857
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.535714
+
+Duration
+5.6
+Idle time
+1
+
+
+Timestamp
+Mon Aug 31 00:30:35 2015
+ 23717 start 10615 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0.0763242
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+13.102
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:30:42 2015
+ 30515 start 23717 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0.882613
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.798
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:30:47 2015
+ 35940 start 30515 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+66.5438
+CursorYDistance: 
+101.751
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.425
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:30:54 2015
+ 42785 start 35940 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+1.31483
+CursorYDistance: 
+5.69759
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.845
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:31:13 2015
+ 61644 start 42785 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+1.0605
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+18.859
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:31:25 2015
+ 73395 start 61644 end 1000
+leftClick 
+0.0850991
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+5.44634
+CursorYDistance: 
+12.5096
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.0850991
+
+Duration
+11.751
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:31:31 2015
+ 79664 start 73395 end 1000
+leftClick 
+0.159515
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+33.1791
+CursorYDistance: 
+30.7864
+UpToDownTime: 
+271.016
+DownToDownTime: 
+460.201
+DownToUpTime: 267.666
+KeyBoard: ----this[Space]is[Space]so[Space]sad[Space]
+Control-0.63806
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.75467
+Mouse Clicks Per Sec
+0.159515
+
+Duration
+6.269
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:31:37 2015
+ 85525 start 79664 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+30.8821
+CursorYDistance: 
+48.9678
+UpToDownTime: 
+1262.58
+DownToDownTime: 
+1516.81
+DownToUpTime: 42.6548
+KeyBoard: ----[Backspace].
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0.170619
+Arrow-
+0
+Regular-0.170619
+Mouse Clicks Per Sec
+0
+
+Duration
+5.861
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:31:42 2015
+ 90565 start 85525 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+13.0952
+CursorYDistance: 
+18.0556
+UpToDownTime: 
+1468.25
+DownToDownTime: 
+1763.89
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.04
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:31:47 2015
+ 95802 start 90565 end 1000
+leftClick 
+0.381898
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+2.86424
+CursorYDistance: 
+25.5872
+UpToDownTime: 
+1413.02
+DownToDownTime: 
+1697.54
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.381898
+
+Duration
+5.237
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:31:52 2015
+ 100808 start 95802 end 1000
+leftClick 
+0.19976
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+10.5873
+CursorYDistance: 
+36.5561
+UpToDownTime: 
+1478.23
+DownToDownTime: 
+1775.87
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.19976
+
+Duration
+5.006
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:31:57 2015
+ 105898 start 100808 end 1000
+leftClick 
+0.392927
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+41.6503
+CursorYDistance: 
+103.143
+UpToDownTime: 
+1453.83
+DownToDownTime: 
+1746.56
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.392927
+
+Duration
+5.09
+Idle time
+0
+
+
+Step 7
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:33:40 2015
+ 5705 start 0 end 1000
+leftClick 
+0.175285
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+67.6599
+CursorYDistance: 
+120.947
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.175285
+
+Duration
+5.705
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:33:46 2015
+ 10865 start 5710 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+7.37148
+CursorYDistance: 
+35.4995
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.155
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:33:51 2015
+ 15876 start 10865 end 1000
+leftClick 
+0.199561
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+14.568
+CursorYDistance: 
+20.9539
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.199561
+
+Duration
+5.011
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:34:04 2015
+ 29469 start 15876 end 1000
+leftClick 
+0.0735673
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+1.25064
+CursorYDistance: 
+2.64842
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.0735673
+
+Duration
+13.593
+Idle time
+10
+
+
+Timestamp
+Mon Aug 31 00:34:09 2015
+ 34561 start 29469 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+1.96386
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.092
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:34:15 2015
+ 39828 start 34561 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+94.3611
+CursorYDistance: 
+158.534
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.267
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:34:20 2015
+ 44975 start 39828 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+32.8347
+CursorYDistance: 
+46.4348
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.147
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:34:25 2015
+ 50535 start 44975 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+1.25899
+CursorYDistance: 
+2.69784
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.56
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:34:30 2015
+ 55689 start 50535 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+2.91036
+CursorYDistance: 
+11.8355
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.154
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:34:35 2015
+ 60695 start 55689 end 1000
+leftClick 
+0.19976
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+63.1243
+CursorYDistance: 
+70.1159
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.19976
+
+Duration
+5.006
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:34:40 2015
+ 65707 start 60695 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+2.99282
+CursorYDistance: 
+19.7526
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.012
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:34:46 2015
+ 70922 start 65712 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+28.9827
+CursorYDistance: 
+23.6084
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.21
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:34:51 2015
+ 75936 start 70922 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+7.1799
+CursorYDistance: 
+10.9693
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.014
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:34:56 2015
+ 80949 start 75936 end 1000
+leftClick 
+0.199481
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+6.18392
+CursorYDistance: 
+13.9637
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.199481
+
+Duration
+5.013
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:35:09 2015
+ 94048 start 80949 end 1000
+leftClick 
+0.0763417
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+19.0091
+CursorYDistance: 
+22.7498
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.0763417
+
+Duration
+13.099
+Idle time
+10
+
+
+Timestamp
+Mon Aug 31 00:35:14 2015
+ 99060 start 94048 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+795.491
+DownToDownTime: 
+989.026
+DownToUpTime: 340.782
+KeyBoard: ----i[Space]would[Space]be[Space]very[Space]de
+Control-0.798085
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-2.7933
+Mouse Clicks Per Sec
+0
+
+Duration
+5.012
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:35:19 2015
+ 104084 start 99060 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+1616.84
+DownToDownTime: 
+1982.68
+DownToUpTime: 439.291
+KeyBoard: ----pressed[Space]and[Space]frust
+Control-0.398089
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-2.98567
+Mouse Clicks Per Sec
+0
+
+Duration
+5.024
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:35:24 2015
+ 109091 start 104084 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+56.5209
+CursorYDistance: 
+53.9245
+UpToDownTime: 
+2069.7
+DownToDownTime: 
+2604.95
+DownToUpTime: 194.927
+KeyBoard: ----rated.
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.19832
+Mouse Clicks Per Sec
+0
+
+Duration
+5.007
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:35:29 2015
+ 114133 start 109096 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+38.7135
+CursorYDistance: 
+35.9341
+UpToDownTime: 
+2057.38
+DownToDownTime: 
+2589.44
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.037
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:35:34 2015
+ 119434 start 114133 end 1000
+leftClick 
+0.188644
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+9.80947
+CursorYDistance: 
+53.0089
+UpToDownTime: 
+1954.91
+DownToDownTime: 
+2460.48
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.188644
+
+Duration
+5.301
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:35:39 2015
+ 124441 start 119434 end 1000
+leftClick 
+0.19972
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+56.1214
+CursorYDistance: 
+83.6828
+UpToDownTime: 
+2069.7
+DownToDownTime: 
+2604.95
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.19972
+
+Duration
+5.007
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:35:44 2015
+ 129456 start 124441 end 1000
+leftClick 
+0.199402
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+4.58624
+CursorYDistance: 
+4.78564
+UpToDownTime: 
+2066.4
+DownToDownTime: 
+2600.8
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.199402
+
+Duration
+5.015
+Idle time
+0
+
+
+Step 8
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:37:47 2015
+ 6767 start 0 end 1000
+leftClick 
+0.295727
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+56.6317
+CursorYDistance: 
+102.765
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.295727
+
+Duration
+6.763
+Idle time
+3
+
+
+Timestamp
+Mon Aug 31 00:37:53 2015
+ 12222 start 6767 end 1000
+leftClick 
+0.183318
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0.366636
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.183318
+
+Duration
+5.455
+Idle time
+0
+
+
+What are you Doing Boss???
+Timestamp
+Mon Aug 31 00:38:15 2015
+ 34828 start 12222 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0.265416
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+22.606
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:38:21 2015
+ 40122 start 34828 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+82.1685
+CursorYDistance: 
+112.391
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.294
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:38:27 2015
+ 46358 start 40122 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+6.89545
+CursorYDistance: 
+21.6485
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.236
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:38:33 2015
+ 52498 start 46358 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+2.28013
+CursorYDistance: 
+7.49186
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.14
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:38:43 2015
+ 61992 start 52498 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0.842637
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+9.494
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:38:48 2015
+ 67088 start 61997 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+12.9641
+CursorYDistance: 
+64.0346
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.091
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:38:53 2015
+ 72188 start 67092 end 1000
+leftClick 
+0.196232
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+8.43799
+CursorYDistance: 
+60.0471
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.196232
+
+Duration
+5.096
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:38:58 2015
+ 77548 start 72188 end 1000
+leftClick 
+0.186567
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.186567
+CursorYDistance: 
+5.03731
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.186567
+
+Duration
+5.36
+Idle time
+3
+
+
+Timestamp
+Mon Aug 31 00:39:05 2015
+ 84829 start 77548 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+7.281
+Idle time
+10
+
+
+Timestamp
+Mon Aug 31 00:39:11 2015
+ 90003 start 84829 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+1258.41
+DownToDownTime: 
+957.48
+DownToUpTime: 204.484
+KeyBoard: ----im[Space]never[Space]ea
+Control-0.386548
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.73947
+Mouse Clicks Per Sec
+0
+
+Duration
+5.174
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:39:16 2015
+ 95023 start 90003 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+1883.47
+DownToDownTime: 
+1913.94
+DownToUpTime: 409.96
+KeyBoard: ----ting[Space]that[Space]food[Space]i
+Control-0.59761
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-2.58964
+Mouse Clicks Per Sec
+0
+
+Duration
+5.02
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:39:21 2015
+ 100398 start 95023 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+31.814
+CursorYDistance: 
+31.814
+UpToDownTime: 
+2441.3
+DownToDownTime: 
+2517.02
+DownToUpTime: 201.488
+KeyBoard: ----e[Backspace]tem[Space]again
+Control-0.186047
+Enter-
+0
+Function-
+0
+BackSpace-
+0.186047
+Arrow-
+0
+Regular-1.67442
+Mouse Clicks Per Sec
+0
+
+Duration
+5.375
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:39:26 2015
+ 105594 start 100398 end 1000
+leftClick 
+0.192456
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+38.2987
+CursorYDistance: 
+43.1101
+UpToDownTime: 
+2525.4
+DownToDownTime: 
+2603.73
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.192456
+
+Duration
+5.196
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:39:31 2015
+ 110942 start 105594 end 1000
+leftClick 
+0.186986
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+9.91025
+CursorYDistance: 
+16.2678
+UpToDownTime: 
+2453.63
+DownToDownTime: 
+2529.73
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.186986
+
+Duration
+5.348
+Idle time
+4
+
+
+Timestamp
+Mon Aug 31 00:39:38 2015
+ 117542 start 110942 end 1000
+leftClick 
+0.30303
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+21.0606
+CursorYDistance: 
+27.5758
+UpToDownTime: 
+1988.18
+DownToDownTime: 
+2049.85
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.30303
+
+Duration
+6.6
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:39:43 2015
+ 122543 start 117542 end 1000
+leftClick 
+0.39992
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+28.9942
+CursorYDistance: 
+24.995
+UpToDownTime: 
+2623.88
+DownToDownTime: 
+2705.26
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.39992
+
+Duration
+5.001
+Idle time
+0
+
+
+Step 9
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:42:24 2015
+ 5144 start 5 end 1000
+leftClick 
+0.38956
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+298.792
+CursorYDistance: 
+137.709
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.38956
+
+Duration
+5.134
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:42:31 2015
+ 13064 start 5144 end 1000
+leftClick 
+0.252525
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+73.4848
+CursorYDistance: 
+22.2222
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.252525
+
+Duration
+7.92
+Idle time
+5
+
+
+Timestamp
+Mon Aug 31 00:42:38 2015
+ 19249 start 13064 end 1000
+leftClick 
+0.161681
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+51.253
+CursorYDistance: 
+77.2838
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.161681
+
+Duration
+6.185
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:42:44 2015
+ 25383 start 19249 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.163026
+CursorYDistance: 
+1.14118
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.134
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:42:50 2015
+ 31525 start 25383 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.48844
+CursorYDistance: 
+5.37284
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.142
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:42:56 2015
+ 37139 start 31529 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0.356506
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.61
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:43:07 2015
+ 48383 start 37139 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.0889363
+CursorYDistance: 
+2.31234
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+11.244
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:43:14 2015
+ 55736 start 48383 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0.135999
+CursorYDistance: 
+0.679995
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+7.353
+Idle time
+4
+
+
+Timestamp
+Mon Aug 31 00:43:19 2015
+ 60739 start 55736 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+84.1495
+CursorYDistance: 
+58.1651
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.003
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:43:24 2015
+ 65743 start 60739 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+9.99201
+CursorYDistance: 
+24.1807
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.004
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:43:29 2015
+ 71039 start 65748 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+4.158
+CursorYDistance: 
+12.474
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+5.291
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:43:35 2015
+ 76154 start 71039 end 1000
+leftClick 
+0.195503
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+8.79765
+CursorYDistance: 
+8.79765
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.195503
+
+Duration
+5.115
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:43:46 2015
+ 87240 start 76154 end 1000
+leftClick 
+0.0902039
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+8.74977
+CursorYDistance: 
+28.8652
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.0902039
+
+Duration
+11.086
+Idle time
+8
+
+
+Timestamp
+Mon Aug 31 00:43:51 2015
+ 92514 start 87240 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+0
+CursorYDistance: 
+0
+UpToDownTime: 
+870.686
+DownToDownTime: 
+846.606
+DownToUpTime: 251.991
+KeyBoard: ----i[Space]would[Space]pra
+Control-0.379219
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-1.70648
+Mouse Clicks Per Sec
+0
+
+Duration
+5.274
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:43:57 2015
+ 98323 start 92514 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+35.2901
+CursorYDistance: 
+94.1642
+UpToDownTime: 
+894.646
+DownToDownTime: 
+907.902
+DownToUpTime: 23.2398
+KeyBoard: ----y
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0.172147
+Mouse Clicks Per Sec
+0
+
+Duration
+5.809
+Idle time
+2
+
+
+Timestamp
+Mon Aug 31 00:44:02 2015
+ 103412 start 98323 end 1000
+leftClick 
+0.196502
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+1.37552
+CursorYDistance: 
+49.7151
+UpToDownTime: 
+1021.22
+DownToDownTime: 
+1036.35
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.196502
+
+Duration
+5.089
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:44:07 2015
+ 108514 start 103412 end 1000
+leftClick 
+0.392003
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+25.8722
+CursorYDistance: 
+52.9204
+UpToDownTime: 
+1018.62
+DownToDownTime: 
+1033.71
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.392003
+
+Duration
+5.102
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:44:12 2015
+ 113524 start 108519 end 1000
+leftClick 
+0.1998
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+9.59041
+CursorYDistance: 
+28.971
+UpToDownTime: 
+1038.36
+DownToDownTime: 
+1053.75
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.1998
+
+Duration
+5.005
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:44:17 2015
+ 118637 start 113524 end 1000
+leftClick 
+0.19558
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+29.5326
+CursorYDistance: 
+150.792
+UpToDownTime: 
+1016.43
+DownToDownTime: 
+1031.49
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.19558
+
+Duration
+5.113
+Idle time
+0
+
+
+Final step
+mouse wheel present...
+Timestamp
+Mon Aug 31 00:44:26 2015
+ 6284 start 0 end 1000
+leftClick 
+0
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+85.0318
+CursorYDistance: 
+216.401
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0
+
+Duration
+6.28
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:44:31 2015
+ 11346 start 6284 end 1000
+leftClick 
+0.395101
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+23.1134
+CursorYDistance: 
+48.3998
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.395101
+
+Duration
+5.062
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:44:36 2015
+ 16499 start 11346 end 1000
+leftClick 
+0.194062
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+23.2874
+CursorYDistance: 
+39.3945
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.194062
+
+Duration
+5.153
+Idle time
+0
+
+
+Timestamp
+Mon Aug 31 00:44:41 2015
+ 21505 start 16499 end 1000
+leftClick 
+0.19976
+rightClick 
+0
+DoubleClick 
+0
+MouseScroll 
+0
+CursorXDistance: 
+9.58849
+CursorYDistance: 
+44.3468
+DownToUpTime: 0
+KeyBoard: ----
+Control-0
+Enter-
+0
+Function-
+0
+BackSpace-
+0
+Arrow-
+0
+Regular-0
+Mouse Clicks Per Sec
+0.19976
+
+Duration
+5.006
+Idle time
+0
+
+
