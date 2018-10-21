@@ -1,2 +1,0 @@
-minimum false accept: 0.0 corresponding false reject: 0.0 
-minimum false reject: 0.0 corresponding false accept: 0.0 

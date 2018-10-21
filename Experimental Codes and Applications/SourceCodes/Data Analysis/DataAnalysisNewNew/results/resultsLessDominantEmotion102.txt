@@ -1,1 +1,0 @@
-Optimal False Accept: 1322.0 Optimal False Reject: 3.0 
